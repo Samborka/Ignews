@@ -1,0 +1,21 @@
+{
+  "id": "da2b6375-8803-4d1b-9e78-d3cd83fbde8c",
+  "uid": "quis-maiores-sint",
+  "type": "post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Scale back-end supply-chains",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Labore voluptate voluptate ea officia quis culpa excepteur aliquip non quis ut occaecat ad voluptate tempor. Occaecat velit minim tempor excepteur voluptate. Anim nostrud irure consectetur ex duis non dolor cillum consectetur ullamco in tempor dolore ipsum.",
+        "spans": []
+      }
+    ]
+  }
+}
